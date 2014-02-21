@@ -1,0 +1,30 @@
+{
+  "name": "yacm",
+  "version": "0.0.1",
+  "description": "Yet another cluster master. Simple worker manager with rolling reload and file watchers",
+  "main": "lib/yacm",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mar-kolya/node-yacm.git"
+  },
+  "dependencies": {
+    "underscore": "*",
+    "dive":"*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "cluster",
+    "master",
+    "manager",
+    "rolling",
+    "workers",
+    "watch"
+  ],
+  "author": "Shutterstock",
+  "license": "GPL3"
+}
