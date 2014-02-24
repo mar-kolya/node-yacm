@@ -1,6 +1,6 @@
 {
   "name": "yacm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yet another cluster master. Simple worker manager with rolling reload and file watchers",
   "main": "lib/yacm",
   "scripts": {
